@@ -1,4 +1,4 @@
-## Hi there 👋, SHASHANK here!
+## Hey there 👋, SHASHANK here!
 #### Developer and a part time artist. 
 ![Developer and a part time artist. ](https://github.com/jaiswalshash/jaiswalshash/blob/main/Untitled%20Design.png)
 
