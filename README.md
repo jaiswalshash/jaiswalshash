@@ -3,7 +3,7 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shashank </h1>
 <h1> Developer and a part time artist. </h1>
 
-<a  href="#"><img width="30%" height="auto" src="https://github.com/jaiswalshash/jaiswalshash/blob/main/Untitled%20Design.png" height="175px"/></a> 
+<a  href="#"><img width="100%" height="auto" src="https://github.com/jaiswalshash/jaiswalshash/blob/main/Untitled%20Design.png" height="175px"/></a> 
 
 
 <h2> ALOHA! I'm a pre-final Student, a Developer in making, and a fan of Web3. </h2>
