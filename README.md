@@ -6,7 +6,7 @@
 <a  href="#"><img width="100%" height="auto" src="https://github.com/jaiswalshash/jaiswalshash/blob/main/Untitled%20Design.png" height="175px"/></a> 
 
 
-<h2> ALOHA! I'm a pre-final Student, a Developer in making, and a fan of Web3. </h2>
+<h2> ALOHA! I'm a final Student, a Developer in making, and a fan of Web3. </h2>
 
 ## 🙋‍♂️ About Me
 
