@@ -48,17 +48,11 @@ Currently exploring **AI agents, knowledge systems, and system design for produc
 
 ---
 
-### Philosophy
-
-> Simple systems scale better than clever ones.  
-> AI is most powerful when it’s boring, reliable, and well-designed.
-
----
 
 ### Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaiswal-shashank/)
-- 🐦 [Twitter / X](https://twitter.com/_nt_an_avg_guy_)
+- 🐦 [Twitter / X](https://twitter.com/jaiswalshashank)
 - 📧 jaiswalshashank123@gmail.com
 
 ---
